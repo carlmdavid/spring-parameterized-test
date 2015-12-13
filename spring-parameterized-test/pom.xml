@@ -3,10 +3,10 @@
   <groupId>org.bytecodeandcode.spring</groupId>
   <artifactId>spring-parameterized-test</artifactId>
   <name>Spring Parameterized Test</name>
-  <description>A test project for using Spring and JUnit Paramterized feature.</description>
+  <description>A test project for using Spring and JUnit Parameterized feature.</description>
   <parent>
-  	<groupId>org.bytecodeandcode.spring.batch</groupId>
-  	<artifactId>spring-batch-parent</artifactId>
+  	<groupId>org.bytecodeandcode</groupId>
+  	<artifactId>parent-bytecodeandcode</artifactId>
   	<version>1.0-SNAPSHOT</version>
   </parent>
   <dependencies>
